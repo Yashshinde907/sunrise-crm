@@ -1,0 +1,15 @@
+{
+  "short_name": "SunriseCRM",
+  "name": "Sunrise Realty CRM",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#FFB800",
+  "background_color": "#F1F5F9",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192/FFB800/000000?text=S",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ]
+}
